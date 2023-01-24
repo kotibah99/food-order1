@@ -1,0 +1,129 @@
+{
+  "header": {
+    "user": "Login",
+    "search": {
+      "placeholder": "How can I help you?"
+    },
+    "menu": {
+      "buttonText": "Hi, ",
+      "list": ["Profile", "My Orders", "Favorite"],
+      "logout": "Logout"
+    },
+    "cartButton": "Your Cart",
+    "foodMenu": "MENU"
+  },
+  "deals": "DEALS",
+  "home": {
+    "ourMenu": { "title": "Our Menu" },
+    "FeatureSection": "Most Ordered"
+  },
+  "footer": {
+    "motto": "Rawaa for healthy food",
+    "CR-No": "CR No.",
+    "VAT-No": "VAT No.",
+    "onYourMobile": "ORDER ON THE GO",
+    "explore": "Explore Rawaa",
+    "ourPromise": "Our Promise",
+    "about-us": "About Us",
+    "policy": "Privacy Policy",
+    "conditions": "Terms & Conditions",
+    "contact-us": "CONTACT WITH US",
+    "locations": "Locations"
+  },
+  "productDetails": {
+    "kcal": "Kcal",
+    "sizeLabel": "Size",
+    "sizeMapper": ["Small", "Medium", "Large"],
+    "tasteMapper": ["Normal", "Spicy"],
+    "quantityLabel": "Quantity",
+    "addToCartBtn": "Add to cart"
+  },
+  "cartModal": {
+    "title": "Your Cart Items",
+    "total": "Total",
+    "actionBtn": "Checkout"
+  },
+  "addressForm": {
+    "apartNum": { "text": "Apartment Number", "placeholder": "19" },
+    "floorNum": { "text": "Floor Number", "placeholder": "5" },
+    "buildingNum": { "text": "Building Number", "placeholder": "2-t" },
+    "street": { "text": "Street", "placeholder": "Street name/number" },
+    "city": { "text": "City", "placeholder": "Tanta" },
+    "governorate": { "text": "Governorate", "placeholder": "Gharbia" },
+    "shortName": { "text": "Short Name", "placeholder": "Work" },
+    "notes": { "text": "Note", "placeholder": "This is an important note." }
+  },
+  "checkout": {
+    "address": "Delivery Address",
+    "summery": "Order Summery",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "addressBtn": "Add New Address",
+    "actionBtn": "Place Order",
+    "total": "Total",
+    "item": "Item"
+  },
+  "user": {
+    "login": "Login",
+    "register": "Register",
+    "email": { "text": "E-mail", "placeholder": "Enter your e-mail" },
+    "password": { "text": "Password", "placeholder": "Enter your password" },
+    "fullname": { "text": "Full name", "placeholder": "Enter your full name" },
+    "phone": {
+      "text": "Phone number",
+      "placeholder": "Enter your phone number"
+    }
+  },
+  "orders": {
+    "states": ["Pending", "Processing", "Rejected", "Completed", "Canceled"]
+  },
+  "validation": {
+    "required": "Required",
+    "password": {
+      "short": "",
+      "long": "",
+      "wrong": ""
+    }
+  },
+  "edit": {
+    "profile": {
+      "title": "Profile",
+      "text": "Manage your details, view your tier status and change your password"
+    },
+    "personal": { "title": "Personal Information", "label": "Full Name" },
+    "email": {
+      "title": "Email address",
+      "labelEmail": "E-Mail",
+      "labelPassword": "Password"
+    },
+    "security": {
+      "title": "Security",
+      "old": {
+        "label": "Old Password",
+        "placeholder": "Enter Old Password"
+      },
+      "newPass": {
+        "label": "New Password",
+        "placeholder": "Enter New Password"
+      },
+      "confirm": {
+        "label": "Confirm Password",
+        "placeholder": "Confirm New Password"
+      },
+      "modalHeaderText": "Delete Account"
+    }
+  },
+  "filter": "Filter",
+  "favorite": "Favorite Meals 😋",
+  "btnLoadingText": "Loading",
+  "saveBtn": "Save",
+  "confirmBtn": "Confirm",
+  "deleteBtn": "Delete",
+  "backBtn": "Back",
+  "closeBtn": "Close",
+  "cancelBtn": "Cancel",
+  "delAccBtn": "Delete account",
+  "alertModalText": "Are you sure? You can't undo this action afterwards.",
+  "privacy": "Rawaa strives to ensure that the information contained in this site is accurate and reliable. However, errors may sometimes occur. You should take appropriate steps to verify all information on this site before acting upon it. To the fullest extent permissible pursuant to applicable law, Rawaa disclaims any warranty or representation of any kind, whether express or implied, as to any matter whatsoever relating to this site, including without limitation the availability of the site. Rawaa may from time to time revise the information, services and the resources contained in this site and reserves the right to make such changes without any obligation to notify past, current or prospective visitors.\nBy entering this site, you acknowledge and agree that the use of this site is at your own risk and to the extent permissible by applicable law, in no circumstances,\nAny software is downloaded at your own risk. If you are in any doubt as to the suitability of the software to be downloaded for your computer it is recommended that you obtain specialist advice before downloading it.\nRawaa will also not be responsible for the content of any other party advertising or sponsorship that may appear on the site nor for compliance of the same with any laws or regulations.\nsite also contain other company mark ,any use by you of these marks, names and logos may constitute an infringement of the holders’ rights.\nThe images, buttons, contents and arrangement and text contained in this site are the exclusive property of Rawaa and not allowed to copy , distributed, or reproduced or transmitted in any form or by any mean, electronic, mechanical, photocopying, or otherwise, without the prior written permission of Rawaa. The of the site, including, the designs, text, and content, are proprietary and are protected from copying, imitation, communication, or simulation under domestic and international laws and are not to be reproduced, communicated, displayed, distributed, or transmitted without the express written permission of Rawaa.\nAny unauthorized use of the materials, structure, sequence, arrangement, or design of the site, or trademarks, service marks, or trade dress found within the site may violate civil or criminal laws, including, but not limited to, copyright laws, trademark laws, the laws of privacy and publicity, and communications regulations and statutes.\nBy visiting the site the user does not acquire or obtain by implication or otherwise, any license or right to use or make additional copies of any materials or information displayed on the site.",
+  "termsConditions": "These terms and conditions apply to the web site. Please read this statement carefully. Use of this site by you shall be deemed to be your acceptance of these terms and conditions.\nRawaa may from time to time amend, update or change this web site including these terms and conditions without prior notice.\nThis site contains of the trademark owned and used by RAWAA, protected under national and international laws and are not to be reproduced or copied without the express written permission of Rawaa."
+}
